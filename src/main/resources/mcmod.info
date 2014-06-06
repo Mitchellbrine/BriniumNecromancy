@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BriniumNecromancy",
+  "name": "Brinium Necromancy",
+  "description": "Example placeholder mod.",
+  "version": "Pre-Alpha",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mitchellbrine"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
