@@ -10,11 +10,13 @@ import net.minecraft.world.World;
 public class TileEntityAlter extends TileEntityBase {
 
     private boolean complete = false;
+    private String alterType;
     private int power;
     private int maxPower = 1000;
 
     public TileEntityAlter() {
         super(ModBlocks.alter);
+        alterType = "";
     }
 
     @Override
